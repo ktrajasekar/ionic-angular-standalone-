@@ -1,0 +1,7 @@
+{
+  "name": "samawat-crew",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
